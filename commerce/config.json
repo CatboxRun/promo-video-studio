@@ -1,0 +1,14 @@
+{
+  "enabled": false,
+  "billing_model": "monthly",
+  "network": "BSC",
+  "chain_id": 56,
+  "currency": "USDT",
+  "recipient": "0x5c181e4dc6a0040161935a4b2b8d52a4d31fe474",
+  "monthly_price": "2",
+  "token_contract": null,
+  "token_decimals": null,
+  "renewal": "manual_transfer",
+  "publisher_name": "\u5ba3\u4f20\u89c6\u9891\u5feb\u901f\u751f\u6210\u5668",
+  "support_url": null
+}

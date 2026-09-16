@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+inputs/
+renders/
+delivery/
+*.mp4
+*.wav
+*.mp3
