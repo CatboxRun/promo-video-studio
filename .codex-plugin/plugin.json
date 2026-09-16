@@ -1,12 +1,12 @@
 {
   "name": "promo-video-studio",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "按配音与字幕制作宣传视频，管理素材、页面设计、音轨和高清交付。",
   "skills": "./skills/",
   "interface": {
     "displayName": "宣传视频快速生成器",
     "shortDescription": "从字幕脚本到高清成片的可复用制作流程",
-    "longDescription": "提供脚本、素材来源记录、图解设计、配音对齐与导出校验流程，并附独立音轨导出工具。需要用户自己的素材及可用制作工具；当前为本地测试版，订阅服务尚未上线。",
+    "longDescription": "提供脚本、素材来源记录、图解设计、配音对齐与导出校验流程，并附独立音轨导出工具。需要用户自己的素材及可用制作工具；v1.0.0 为公开工作流版本，订阅服务尚未上线。",
     "category": "Productivity",
     "capabilities": [
       "Read",
@@ -21,5 +21,6 @@
   },
   "author": {
     "name": "宣传视频快速生成器"
-  }
+  },
+  "repository": "https://github.com/CatboxRun/promo-video-studio"
 }
